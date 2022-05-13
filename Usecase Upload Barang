@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T12:27:03.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="AFBKNRA1QbjZcjvIkNzg" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T14:06:36.100Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="S8rehkuTPgGpEnk5N5Y0" version="18.0.3" type="github">
   <diagram id="a8wDCR6fQ1ipgIGHDmsL" name="Page-1">
-    <mxGraphModel dx="756" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-1" value="Penjual" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFF2CC;" parent="1" vertex="1">
+        <mxCell id="MDRCmGNxGszIb0EYD_T_-1" value="Penjual" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFFFC0;" parent="1" vertex="1">
           <mxGeometry x="90" y="210" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MDRCmGNxGszIb0EYD_T_-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="MDRCmGNxGszIb0EYD_T_-5" edge="1">
@@ -19,29 +19,26 @@
             <mxPoint x="320" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-5" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="10" width="280" height="140" as="geometry" />
+        <mxCell id="MDRCmGNxGszIb0EYD_T_-7" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFC0;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="320" y="290" width="290" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-6" value="Memasukkan f&lt;span style=&quot;background-color: initial;&quot;&gt;oto produk, v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ideo produk (opsional), n&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ama produk, h&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;arga produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;onus produk, d&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;eskripsi produk, t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anggal rilis produk, l&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abel, asal p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;roduksil, pusat p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;engiriman, k&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ondisi produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tatus produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tok produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;erat produk&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="350" y="65" width="220" height="30" as="geometry" />
+        <mxCell id="uEBR7JVNWMLTHVNBqgEW-3" value="" style="swimlane;startSize=0;fillColor=#FFFFC0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="520" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-7" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="190" width="280" height="140" as="geometry" />
+        <mxCell id="MDRCmGNxGszIb0EYD_T_-5" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFC0;strokeColor=#000000;" parent="uEBR7JVNWMLTHVNBqgEW-3" vertex="1">
+          <mxGeometry x="160" y="40" width="290" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-8" value="Mengedit f&lt;span style=&quot;background-color: initial;&quot;&gt;oto produk, v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ideo produk, n&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ama produk, h&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;arga produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;onus produk, d&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;eskripsi produk, t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anggal rilis produk, l&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abel, asal p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;roduksil, pusat p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;engiriman, k&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ondisi produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tatus produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tok produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;erat produk&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="245" width="245" height="30" as="geometry" />
+        <mxCell id="MDRCmGNxGszIb0EYD_T_-8" value="Mengedit f&lt;span style=&quot;background-color: initial;&quot;&gt;oto produk, v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ideo produk, n&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ama produk, h&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;arga produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;onus produk, d&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;eskripsi produk, t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anggal rilis produk, l&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abel, asal p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;roduksil, pusat p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;engiriman, k&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ondisi produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tatus produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tok produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;erat produk&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;" parent="uEBR7JVNWMLTHVNBqgEW-3" vertex="1">
+          <mxGeometry x="182.5" y="320" width="245" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-9" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="260" as="sourcePoint" />
-            <mxPoint x="320" y="440" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MDRCmGNxGszIb0EYD_T_-6" value="Memasukkan f&lt;span style=&quot;background-color: initial;&quot;&gt;oto produk, v&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ideo produk (opsional), n&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ama produk, h&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;arga produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;onus produk, d&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;eskripsi produk, t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;anggal rilis produk, l&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;abel, asal p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;roduksil, pusat p&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;engiriman, k&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ondisi produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tatus produk, s&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tok produk, b&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;erat produk&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;" parent="uEBR7JVNWMLTHVNBqgEW-3" vertex="1">
+          <mxGeometry x="195" y="100" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-10" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="370" width="280" height="140" as="geometry" />
+        <mxCell id="uEBR7JVNWMLTHVNBqgEW-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Sistem Upload Barang&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uEBR7JVNWMLTHVNBqgEW-3">
+          <mxGeometry width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MDRCmGNxGszIb0EYD_T_-11" value="Menghapus produk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="395" y="425" width="130" height="30" as="geometry" />
+        <mxCell id="uEBR7JVNWMLTHVNBqgEW-1" value="uc" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry width="720" height="560" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
