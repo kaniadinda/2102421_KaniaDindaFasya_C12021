@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-13T12:09:01.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="P21fG32-JOovmM04etUO" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-13T12:13:05.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="BAXbVZlxHq015cWDmLO7" version="18.0.3" type="github">
   <diagram name="Page-1" id="58cdce13-f638-feb5-8d6f-7d28b1aa9fa0">
-    <mxGraphModel dx="3024" dy="2048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1680" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,8 +12,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-2" value="Sistem Website" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="320" height="1000" as="geometry" />
+        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-2" value="Sistem Website" style="swimlane;fillColor=#FFFFC0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="320" height="770" as="geometry" />
         </mxCell>
         <mxCell id="382b91b5511bd0f7-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" parent="rsaYsZ9hI2QXhAz-1Nif-2" vertex="1">
           <mxGeometry x="140" y="40" width="30" height="30" as="geometry" />
@@ -45,8 +45,8 @@
         <mxCell id="rsaYsZ9hI2QXhAz-1Nif-14" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;direction=south;" vertex="1" parent="rsaYsZ9hI2QXhAz-1Nif-2">
           <mxGeometry x="145" y="620" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-3" value="Penjual" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="320" height="1000" as="geometry" />
+        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-3" value="Penjual" style="swimlane;fillColor=#FFFFC0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="320" height="770" as="geometry" />
         </mxCell>
         <mxCell id="382b91b5511bd0f7-7" value="&lt;span id=&quot;docs-internal-guid-c8456f22-7fff-c593-62d7-4d3deaa105f5&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Memesan dan memberikan barang kepada jasa pengiriman&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#000000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="rsaYsZ9hI2QXhAz-1Nif-3" vertex="1">
           <mxGeometry x="50" y="120" width="220" height="60" as="geometry" />
@@ -54,8 +54,8 @@
         <mxCell id="rsaYsZ9hI2QXhAz-1Nif-5" value="Mencetak nomor resi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#000000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="rsaYsZ9hI2QXhAz-1Nif-3">
           <mxGeometry x="80" y="230" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-4" value="Ekspedisi" style="swimlane;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="720" y="80" width="280" height="1000" as="geometry" />
+        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-4" value="Ekspedisi" style="swimlane;startSize=23;fillColor=#FFFFC0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="280" height="770" as="geometry" />
         </mxCell>
         <mxCell id="382b91b5511bd0f7-9" value="&lt;span id=&quot;docs-internal-guid-4b3cc138-7fff-0ea2-1f56-143051260948&quot;&gt;&lt;span style=&quot;font-size: 11pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;Memberikan nomor resi&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=24;fillColor=#ffffc0;strokeColor=#000000;shadow=0;comic=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" parent="rsaYsZ9hI2QXhAz-1Nif-4" vertex="1">
           <mxGeometry x="80" y="120" width="120" height="60" as="geometry" />
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="rsaYsZ9hI2QXhAz-1Nif-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="rsaYsZ9hI2QXhAz-1Nif-5" target="382b91b5511bd0f7-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rsaYsZ9hI2QXhAz-1Nif-18" value="Activity Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;width=110;height=30;" vertex="1" parent="1">
+          <mxGeometry width="1080" height="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
